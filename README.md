@@ -1,1 +1,1 @@
-# privtate_for_NM
+# private_for_NM
